@@ -14,5 +14,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=posion77)](https://github.com/posion77/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=posion77)](https://github.com/posion77/github-readme-stats)
-
