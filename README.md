@@ -9,3 +9,4 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=posion77&show_icons=true" />
 </picture>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=posion77&repo=github-readme-stats)](https://github.com/posion77/github-readme-stats)
