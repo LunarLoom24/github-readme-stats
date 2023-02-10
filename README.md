@@ -11,3 +11,5 @@
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=posion77&layout=compact)](https://github.com/posion77/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=posion77)](https://github.com/posion77/github-readme-stats)
